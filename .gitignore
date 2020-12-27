@@ -8,3 +8,4 @@ target/**
 .settings
 .settings/**
 .classpath
+bcplayground.java
